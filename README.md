@@ -25,7 +25,7 @@ vitalii@kyiv:~$ cat about.json
     "stack": [ "Cloudflare Workers", "D1", "KV", "React", "MapLibre" ]
   },
   "based_in":   "Kyiv, Ukraine · UTC+3",
-  "speaks":     [ "PHP", "TypeScript", "JavaScript", "SQL", "українська" ],
+  "speaks":     [ "PHP", "TypeScript", "JavaScript", "SQL", "українська", "english" ],
   "motto":      "ship fast · padel faster"
 }
 vitalii@kyiv:~$ █
