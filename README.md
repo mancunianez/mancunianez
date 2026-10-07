@@ -23,7 +23,7 @@ vitalii@kyiv:~$ cat about.json
     {
       "name": "booooka.com",
       "what": "reading companion for kids — an AI pet grows with every page 🐲",
-      "stack": [ "Next.js", "Vercel" ]
+      "stack": [ "Next.js", "Supabase", "Gemini", "Vercel" ]
     },
     {
       "name": "padelamateurs.com",
