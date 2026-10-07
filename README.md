@@ -4,7 +4,7 @@
 
 <img width="100%" src="assets/banner.svg" alt="Vitalii Kulish — full-stack developer"/>
 
-<img height="46" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=720&lines=%24+whoami%3Bvitalii+kulish+%C2%B7+full-stack+dev+%C2%B7+kyiv%3B%24+day_job%3Bwpforms+engineer+%40+awesome+motive%3B%24+side_quest%3Bpadelamateurs.com+%E2%80%94+padel+%C3%97+code" alt="typing"/>
+<img height="46" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=720&lines=%24+whoami%3Bvitalii+kulish+%C2%B7+full-stack+dev+%C2%B7+kyiv%3B%24+day_job%3Bwpforms+engineer+%40+awesome+motive%3B%24+side_quests%3Bpadelamateurs.com+%C2%B7+booooka.com" alt="typing"/>
 
 </div>
 
@@ -19,11 +19,17 @@ vitalii@kyiv:~$ cat about.json
   "name":       "Vitalii Kulish",
   "role":       "Full-Stack Developer @ Awesome Motive",
   "product":    "WPForms — the WordPress form builder",
-  "side_quest": {
-    "name":  "padelamateurs.com",
-    "what":  "padel tournaments & open plays · Kyiv ↔ Warsaw",
-    "stack": [ "Cloudflare Workers", "D1", "KV", "React", "MapLibre" ]
-  },
+  "side_quests": [
+    {
+      "name": "booooka.com",
+      "what": "reading companion for kids — an AI pet grows with every page 🐲"
+    },
+    {
+      "name": "padelamateurs.com",
+      "what": "padel tournaments & open plays · Kyiv ↔ Warsaw",
+      "stack": [ "Cloudflare Workers", "D1", "KV", "React", "MapLibre" ]
+    }
+  ],
   "based_in":   "Kyiv, Ukraine · UTC+3",
   "speaks":     [ "PHP", "TypeScript", "JavaScript", "SQL", "українська", "english" ],
   "motto":      "ship fast · padel faster"
@@ -36,6 +42,7 @@ vitalii@kyiv:~$ █
 ```txt
 ▸ shipping    wpforms features to millions of wordpress sites
 ▸ building    padelamateurs.com — kyiv & warsaw edition
+▸ growing     booooka.com — a tiny dragon that loves books 🐲
 ▸ exploring   edge-first architecture on cloudflare workers
 ▸ playing     padel. badly. with passion. 🎾
 ```
@@ -76,12 +83,14 @@ vitalii@kyiv:~$ █
 ```bash
 #!/bin/bash
 echo "open to: cool problems & padel games"
-ping padelamateurs.com     # side quest
+ping padelamateurs.com     # side quest: padel × code
+ping booooka.com           # side quest: kids × books 🐲
 mail -s "hello" vitalii    # mancunianez@gmail.com
 ```
 
 <p>
   <a href="https://padelamateurs.com"><img src="https://img.shields.io/badge/-padelamateurs.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0D1117" alt="padelamateurs.com"/></a>
+  <a href="https://booooka.com"><img src="https://img.shields.io/badge/-booooka.com-B026FF?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0D1117" alt="booooka.com"/></a>
   <a href="mailto:mancunianez@gmail.com"><img src="https://img.shields.io/badge/-say_hi-FF3DF5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email"/></a>
 </p>
 
