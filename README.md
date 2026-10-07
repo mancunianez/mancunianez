@@ -77,7 +77,7 @@ vitalii@kyiv:~$ █
 #!/bin/bash
 echo "open to: cool problems & padel games"
 ping padelamateurs.com     # side quest
-mail -s "hello" vitalii    # mankunianez@gmail.com
+mail -s "hello" vitalii    # mancunianez@gmail.com
 ```
 
 <p>
