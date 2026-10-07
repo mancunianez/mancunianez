@@ -22,7 +22,8 @@ vitalii@kyiv:~$ cat about.json
   "side_quests": [
     {
       "name": "booooka.com",
-      "what": "reading companion for kids — an AI pet grows with every page 🐲"
+      "what": "reading companion for kids — an AI pet grows with every page 🐲",
+      "stack": [ "Next.js", "Vercel" ]
     },
     {
       "name": "padelamateurs.com",
